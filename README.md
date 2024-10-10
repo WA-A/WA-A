@@ -8,12 +8,12 @@ A Junior Full-Stack developer From Palestine-Nablus "Awarta"
 
 Here are some ideas to get you started:
 -->
-## About Me 👨‍💻
-- 🔭 I’m currently working on learning everything 👨‍💻 but I am interested in  **ReactJS**, **React Netive**, **Node js** ,**Asp.net** ✨
+## About Me ❣
+- 🔭 I’m currently working on learning everything 👩🏼‍💻 but I am interested in  **ReactJS**, **React Netive**, **Node js** ,**Asp.net** ✨
 - 🌱 I’m currently learning new things 🧠
 - 👯 I’m looking to collaborate with other content creators 💡
 - 🤝 Available for freelance work on exciting projects. 🌟
-- 🚀 Open for freelance opportunities to build innovative solutions.👨‍💻
+- 🚀 Open for freelance opportunities to build innovative solutions.👩🏼‍💻
 - ⚡ Fun fact: I love to be a writer too 💼
 
 - ## Blog posts:
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50"/> ⚡ <strong>JavaScript</strong></td>
-    <td><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="50"/> 🎨 <strong>Bootstrap</strong></td>
+    <td><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="50"/> 🎨<strong>Bootstrap</strong></td>
     <td><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50"/>⚛️ <strong>React</strong></td>
     <td><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50"/> ⚛️ <strong>React Native</strong></td>
   </tr>
