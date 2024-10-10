@@ -17,15 +17,24 @@ Here are some ideas to get you started:
 - ## Blog posts:
 - ### Connect with me:
 
-<a href="https://www.linkedin.com/in/wasan-awwad-607a07241">
-    <img src="https://example.com/linkedin.png" alt="LinkedIn" width="24px" style="color:#0077B5;"/>
+<a href="https://www.linkedin.com/in/wasan-awwad-607a07241" target="_blank">
+    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn">
 </a>
-
-[<img align="left" alt="Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://x.com/WasanAwwad)
-[<img align="left" alt="Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/wasan.awwad.9?mibextid=LQQJ4d)
-[<img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/wasan.a.awwad/profilecard/?igsh=ZXd5dmFlMHhhbnAy)
-[<img align="left" alt="HackerRank" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/profile/nnu_ce_12042150)
-[<img align="left" alt="Codeforces" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />](https://codeforces.com/profile/wasanawwad)
+<a href="https://x.com/WasanAwwad" target="_blank">
+    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter">
+</a>
+<a href="https://www.facebook.com/wasan.awwad.9?mibextid=LQQJ4d" target="_blank">
+    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook">
+</a>
+<a href="https://www.instagram.com/wasan.a.awwad/profilecard/?igsh=ZXd5dmFlMHhhbnAy" target="_blank">
+    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram">
+</a>
+<a href="https://www.hackerrank.com/profile/nnu_ce_12042150" target="_blank">
+    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="HackerRank">
+</a>
+<a href="https://codeforces.com/profile/wasanawwad" target="_blank">
+    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" alt="Codeforces">
+</a>
 
 
 <br />
