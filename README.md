@@ -30,9 +30,6 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50"/></td>
-    <td><img src="https://img.icons8.com/color/48/000000/data-structure.png" alt="Data Structure" width="50"/></td>
-    <td><img src="https://img.icons8.com/color/48/000000/algorithm.png" alt="Algorithm" width="50"/></td>
-    <td><img src="https://img.icons8.com/color/48/000000/problem-solving.png" alt="Problem Solving" width="50"/></td>
     <td><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50"/></td>
     <td><img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="50"/></td>
   </tr>
@@ -58,6 +55,29 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+
+- 💻 **C++**
+- 📚 **Data Structures**
+- 📐 **Algorithms**
+- 🧠 **Problem Solving**
+- ☕ **Java**
+- 🏛 **Oracle**
+- 🗄 **SQL**
+- 🐍 **Python**
+- 🌐 **HTML**
+- 🎨 **CSS**
+- 🐘 **PHP**
+- 🛢 **MySQL**
+- ⚡ **JavaScript**
+- 🎨 **Bootstrap**
+- ⚛️ **React**
+- 📱 **React Native**
+- ♻️ **Redux.js**
+- 🌲 **Node.js**
+- 🖥 **C#**
+- 💻 **ASP.NET**
+- 🍃 **MongoDB**
+- 🚀 **Express.js**
 
 
 
