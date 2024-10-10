@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 - ## Blog posts:
 - ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/wasan-awwad-607a07241)
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://x.com/WasanAwwad)
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/wasan.awwad.9?mibextid=LQQJ4d)
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/wasan.a.awwad/profilecard/?igsh=ZXd5dmFlMHhhbnAy)
-[<img align="left" alt="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/profile/nnu_ce_12042150)
-[<img align="left" alt="Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />](https://codeforces.com/profile/wasanawwad)
+[<img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/wasan-awwad-607a07241)
+[<img align="left" alt="Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://x.com/WasanAwwad)
+[<img align="left" alt="Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/wasan.awwad.9?mibextid=LQQJ4d)
+[<img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/wasan.a.awwad/profilecard/?igsh=ZXd5dmFlMHhhbnAy)
+[<img align="left" alt="HackerRank" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/profile/nnu_ce_12042150)
+[<img align="left" alt="Codeforces" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />](https://codeforces.com/profile/wasanawwad)
+
 
 <br />
 
