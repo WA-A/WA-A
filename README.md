@@ -29,15 +29,15 @@ Here are some ideas to get you started:
 - ### Languages and Tools:
 <table>
   <tr>
-    <td> 💻 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50"/> 💻 <strong>C++</strong></td>
+    <td><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50"/> 💻 <strong>strong>C++</td>
     <td> 📚 <strong>Data Structures</strong></td>
     <td> 📐 <strong>Algorithms</strong></td>
     <td> 🧠 <strong>Problem Solving</strong></td>
   </tr>
   <tr>
-    <td> ☕ <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50"/> ☕ <strong>Java</strong></td>
-    <td>  🗄 <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="50"/> 🗄 <strong>SQL</strong></td>
-    <td> 🐍 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50"/> 🐍 <strong>Python</strong></td>
+    <td><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50"/> ☕ <strong>Java</strong></td>
+    <td> <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="50"/> 🗄 <strong>SQL</strong></td>
+    <td><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50"/> 🐍 <strong>Python</strong></td>
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="50"/> 🌐 <strong>HTML</strong></td>
