@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <img align="left" alt="Instagram" width="24px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />
 </a>
 <a href="https://leetcode.com/u/WasanAwwad/" target="_blank">
-    <img align="left" alt="LeetCode" width="24px" src="https://upload.wikimedia.org/wikipedia/en/5/50/LeetCode_logo_black.png" />
+    <img align="left" alt="LeetCode" width="24px" src="https://img.icons8.com/color/48/000000/leetcode.png" />
 </a>
 
 <a href="https://codeforces.com/profile/wasanawwad" target="_blank">
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
   <tr>
     <td><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50"/> ⚡ <strong>JavaScript</strong></td>
     <td><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="50"/> 🎨 <strong>Bootstrap</strong></td>
-    <td><img src="https://img.icons8.com/color/48/000000/react.png" alt="React" width="50" />⚛️ <strong>React</strong></td>
+    <td><<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50"/>⚛️ <strong>React</strong></td>
     <td><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50"/> ⚛️ <strong>React Native</strong></td>
   </tr>
   <tr>
