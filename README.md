@@ -1,42 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Greeting Animation</title>
+    <style>
+        body {
+            background-color: #f4f4f4; /* لون الخلفية */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* ملئ الشاشة */
+            margin: 0; /* إزالة الهوامش */
+        }
+
+        .greeting {
+            font-size: 24px; /* حجم الخط */
+            font-weight: bold; /* جعل النص سميك */
+            text-align: center; /* توسيط النص */
+            animation: fadeIn 2s; /* تأثير الظهور */
+            transition: transform 0.3s; /* تأثير الانتقال */
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* ظل النص */
+        }
+
+        .greeting:hover {
+            transform: scale(1.05); /* تكبير النص عند التحويم */
+        }
+
+        .name {
+            color: #007bff; /* لون مخصص للاسم */
+            font-size: 26px; /* حجم أكبر للاسم */
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0; /* بدءًا من الشفافية */
+            }
+            to {
+                opacity: 1; /* حتى الشفافية الكاملة */
+            }
+        }
+    </style>
+</head>
+<body>
+
 <div class="greeting">
     Hi 👋, I'm <span class="name">Wasan Awwad</span>
 </div>
 
-body {
-    background-color: #f4f4f4; /* لون الخلفية */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh; /* ملئ الشاشة */
-    margin: 0; /* إزالة الهوامش */
-}
-
-.greeting {
-    font-size: 24px; /* حجم الخط */
-    font-weight: bold; /* جعل النص سميك */
-    text-align: center; /* توسيط النص */
-    animation: fadeIn 2s; /* تأثير الظهور */
-    transition: transform 0.3s; /* تأثير الانتقال */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* ظل النص */
-}
-
-.greeting:hover {
-    transform: scale(1.05); /* تكبير النص عند التحويم */
-}
-
-.name {
-    color: #007bff; /* لون مخصص للاسم */
-    font-size: 26px; /* حجم أكبر للاسم */
-}
-
-@keyframes fadeIn {
-    from {
-        opacity: 0; /* بدءًا من الشفافية */
-    }
-    to {
-        opacity: 1; /* حتى الشفافية الكاملة */
-    }
-}
+</body>
+</html>
 
 A Junior Full-Stack developer 
 
