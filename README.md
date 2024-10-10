@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     <img align="left" alt="Codeforces" width="24px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" />
 </a>
 </p>
-
+<br/>
  - ## Languages and Tools:
 <table>
   <tr>
@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 - ## Activity:-
 
-##Most Used Languages
+## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WA-A&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
