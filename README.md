@@ -30,14 +30,15 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/wasan.a.awwad/profilecard/?igsh=ZXd5dmFlMHhhbnAy" target="_blank">
     <img align="left" alt="Instagram" width="24px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />
 </a>
-<!--<a href="https://www.hackerrank.com/profile/nnu_ce_12042150" target="_blank">
-    <img align="left" alt="HackerRank" width="24px" src="https://img.icons8.com/material-outlined/48/000000/hackerrank.png" />
-</a>-->
+<a href="https://leetcode.com/u/WasanAwwad/" target="_blank">
+    <img align="left" alt="LeetCode" width="24px" src="https://img.icons8.com/material-outlined/48/000000/leetcode.png" />
+</a>
 <a href="https://codeforces.com/profile/wasanawwad" target="_blank">
     <img align="left" alt="Codeforces" width="24px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" />
 </a>
 </p>
 <br/>
+
  - ## Languages and Tools:
 <table>
   <tr>
