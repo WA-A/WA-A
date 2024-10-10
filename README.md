@@ -31,14 +31,17 @@ Here are some ideas to get you started:
     <img align="left" alt="Instagram" width="24px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />
 </a>
 <a href="https://leetcode.com/u/WasanAwwad/" target="_blank">
-    <img align="left" alt="LeetCode" width="24px" src="https://img.icons8.com/material-outlined/48/000000/leetcode.png" />
+    <img align="left" alt="LeetCode" width="24px" src="https://img.icons8.com/color/48/000000/leetcode.png" />
 </a>
 <a href="https://codeforces.com/profile/wasanawwad" target="_blank">
     <img align="left" alt="Codeforces" width="24px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" />
 </a>
 </p>
+
+<br/>
 <br/>
 
+##
  - ## Languages and Tools:
 <table>
   <tr>
@@ -67,18 +70,13 @@ Here are some ideas to get you started:
     <td><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux.js" width="50"/> ♻️ <strong>Redux.js</strong></td>
     <td><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50"/> 🌲 <strong>Node.js</strong></td>
     <td><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="50"/> 🖥 <strong>C#</strong></td>
-    <td><img src="https://img.icons8.com/color/48/000000/asp-net.png" alt="ASP.NET" width="50"/> 💻 <strong>ASP.NET</strong></td>
+    <td><img src="https://img.icons8.com/color/48/000000/asp-net-core.png" alt="ASP.NET" width="50"/> 💻 <strong>ASP.NET</strong></td>
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="50"/> 🍃 <strong>MongoDB</strong></td>
     <td><img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="50"/> 🚀 <strong>Express.js</strong></td>
   </tr>
 </table>
-
-
-
-
-
 
 
 - ## Activity:-
