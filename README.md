@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ### Languages and Tools:
 <table>
   <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50"/> 💻 <strong>strong>C++</td>
+    <td><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50"/> 💻 <strong>C++<strong></td>
     <td> 📚 <strong>Data Structures</strong></td>
     <td> 📐 <strong>Algorithms</strong></td>
     <td> 🧠 <strong>Problem Solving</strong></td>
