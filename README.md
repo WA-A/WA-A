@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 - ## Blog posts:
 - ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/wasan-awwad-607a07241)
+<a href="https://www.linkedin.com/in/wasan-awwad-607a07241">
+    <img src="https://example.com/linkedin.png" alt="LinkedIn" width="24px" style="color:#0077B5;"/>
+</a>
+
 [<img align="left" alt="Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://x.com/WasanAwwad)
 [<img align="left" alt="Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/wasan.awwad.9?mibextid=LQQJ4d)
 [<img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/wasan.a.awwad/profilecard/?igsh=ZXd5dmFlMHhhbnAy)
