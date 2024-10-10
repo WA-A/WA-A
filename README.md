@@ -1,12 +1,7 @@
 
-<div class="greeting">
-    Hi 👋, I'm <span class="name">Wasan Awwad</span>
-</div>
+# Hi 👋, I'm Wasan Awwad
+A Junior Full-Stack developer From Palestine Nablis-Awarta
 
-</body>
-</html>
-
-A Junior Full-Stack developer 
 
 <!--
 **WA-A/WA-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
