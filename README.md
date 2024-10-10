@@ -17,24 +17,35 @@ Here are some ideas to get you started:
 - ## Blog posts:
 - ### Connect with me:
 
-<a href="https://www.linkedin.com/in/wasan-awwad-607a07241" target="_blank">
-    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn">
-</a>
+<p>
 <a href="https://x.com/WasanAwwad" target="_blank">
-    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter">
+    <img align="left" alt="Twitter" width="24px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />
+</a>
+<a href="https://www.linkedin.com/in/wasan-awwad-607a07241" target="_blank">
+    <img align="left" alt="LinkedIn" width="24px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 <a href="https://www.facebook.com/wasan.awwad.9?mibextid=LQQJ4d" target="_blank">
-    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook">
+    <img align="left" alt="Facebook" width="24px" src="https://img.icons8.com/color/48/000000/facebook.png" />
 </a>
 <a href="https://www.instagram.com/wasan.a.awwad/profilecard/?igsh=ZXd5dmFlMHhhbnAy" target="_blank">
-    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram">
+    <img align="left" alt="Instagram" width="24px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />
+</a>
+<a href="https://www.behance.net" target="_blank">
+    <img align="left" alt="Behance" width="24px" src="https://img.icons8.com/color/48/000000/behance.png" />
 </a>
 <a href="https://www.hackerrank.com/profile/nnu_ce_12042150" target="_blank">
-    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="HackerRank">
+    <img align="left" alt="HackerRank" width="24px" src="https://img.icons8.com/color/48/000000/hackerrank.png" />
 </a>
 <a href="https://codeforces.com/profile/wasanawwad" target="_blank">
-    <img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" alt="Codeforces">
+    <img align="left" alt="Codeforces" width="24px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" />
 </a>
+<a href="https://www.youtube.com/" target="_blank">
+    <img align="left" alt="YouTube" width="24px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />
+</a>
+<a href="https://discord.com/" target="_blank">
+    <img align="left" alt="Discord" width="24px" src="https://img.icons8.com/color/48/000000/discord-logo.png" />
+</a>
+</p>
 
 
 <br />
