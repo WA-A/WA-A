@@ -1,6 +1,6 @@
 
 # Hi 👋, I'm Wasan Awwad
-A Junior Full-Stack developer From Palestine-Nablus "Awarta"
+A Junior Full-Stack developer From <!--Palestine-Nablus "Awarta"-->
 
 
 <!--
@@ -8,7 +8,8 @@ A Junior Full-Stack developer From Palestine-Nablus "Awarta"
 
 Here are some ideas to get you started:
 -->
-## About Me ❣
+## About Me 🍂🍃🏹
+
 - 🔭 I’m currently working on learning everything 👩🏼‍💻 but I am interested in  **ReactJS**, **React Netive**, **Node js** ,**Asp.net** ✨
 - 🌱 I’m currently learning new things 🧠
 - 👯 I’m looking to collaborate with other content creators 💡
@@ -56,29 +57,35 @@ Here are some ideas to get you started:
   <tr>
     <td><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50"/> ☕ <strong>Java</strong></td>
     <td> <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="50"/> 🗄 <strong>SQL</strong></td>
+    <td><img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="50"/> 🐙 <strong>Oracle</strong></td>
     <td><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50"/> 🐍 <strong>Python</strong></td>
   </tr>
   <tr>
+     <td><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50"/> 🔧 <strong>Git</strong></td>
+     <td><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="50"/> 🛠️ <strong>GitHub</strong></td>
     <td><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="50"/> 🌐 <strong>HTML</strong></td>
     <td><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="50"/> 🎨 <strong>CSS</strong></td>
-    <td><img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="50"/> 🐘 <strong>PHP</strong></td>
-    <td><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50"/> 🛢 <strong>MySQL</strong></td>
+   
   </tr>
   <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="50"/> 🐘 <strong>PHP</strong></td>
+    <td><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50"/> 🛢 <strong>MySQL</strong></td>
     <td><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50"/> ⚡ <strong>JavaScript</strong></td>
     <td><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="50"/> 🎨<strong>Bootstrap</strong></td>
     <td><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50"/>⚛️ <strong>React</strong></td>
     <td><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50"/> ⚛️ <strong>React Native</strong></td>
   </tr>
   <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50"/>⚛️ <strong>React</strong></td>
+    <td><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50"/> ⚛️ <strong>React Native</strong></td>
     <td><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux.js" width="50"/> ♻️ <strong>Redux.js</strong></td>
     <td><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50"/> 🌲 <strong>Node.js</strong></td>
-    <td><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="50"/> 🖥 <strong>C#</strong></td>
-    <td> 💻 <strong>ASP.NET</strong></td> <!--<img src="https://img.icons8.com/color/48/000000/asp-net-core.png" alt="ASP.NET" width="50"/>-->
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="50"/> 🍃 <strong>MongoDB</strong></td>
     <td><img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="50"/> 🚀 <strong>Express.js</strong></td>
+    <td><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="50"/> 🖥 <strong>C#</strong></td>
+    <td> 💻 <strong>ASP.NET</strong></td> <!--<img src="https://img.icons8.com/color/48/000000/asp-net-core.png" alt="ASP.NET" width="50"/>-->
   </tr>
 </table>
 
