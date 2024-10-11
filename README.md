@@ -1,6 +1,6 @@
 
 # Hi 👋, I'm Wasan Awwad
-A Junior Full-Stack developer From <!--Palestine-Nablus "Awarta"-->
+A Junior Full-Stack Developer<!-- From Palestine-Nablus "Awarta"-->
 
 
 <!--
