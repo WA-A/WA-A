@@ -8,7 +8,7 @@ A Junior Full-Stack developer From <!--Palestine-Nablus "Awarta"-->
 
 Here are some ideas to get you started:
 -->
-## About Me 🍂🍃🏹
+## About Me 🍂🏹
 
 - 🔭 I’m currently working on learning everything 👩🏼‍💻 but I am interested in  **ReactJS**, **React Netive**, **Node js** ,**Asp.net** ✨
 - 🌱 I’m currently learning new things 🧠
@@ -72,8 +72,6 @@ Here are some ideas to get you started:
     <td><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50"/> 🛢 <strong>MySQL</strong></td>
     <td><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50"/> ⚡ <strong>JavaScript</strong></td>
     <td><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="50"/> 🎨<strong>Bootstrap</strong></td>
-    <td><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50"/>⚛️ <strong>React</strong></td>
-    <td><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50"/> ⚛️ <strong>React Native</strong></td>
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50"/>⚛️ <strong>React</strong></td>
