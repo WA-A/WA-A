@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 ## About Me 🍂🏹
 
-- 🔭 I’m currently working on learning everything 👩🏼‍💻 but I am interested in  **ReactJS**, **React Netive**, **Node js** ,**Asp.net** ✨
+- 🔭 I’m currently working on learning everything 👩🏼‍💻 but I am interested in  **ReactJS**, **React Native**, **Node js** ,**Asp.net** ✨
 - 🌱 I’m currently learning new things 🧠
 - 👯 I’m looking to collaborate with other content creators 💡
 - 🤝 Available for freelance work on exciting projects. 🌟
