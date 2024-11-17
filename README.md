@@ -82,12 +82,11 @@ Here are some ideas to get you started:
     <td><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="50"/> 🍃 <strong>MongoDB</strong></td>
     <td><img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="50"/> 🚀 <strong>Express.js</strong></td>
     <td><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="50"/> 🖥 <strong>C#</strong></td>
-    <td><img src="https://img.icons8.com/color/48/000000/asp-net-core.png" alt="ASP.NET" width="50"/> 💻 <strong>ASP.NET</strong></td>
+    <td><img  alt="ASP.NET" width="50"/> 💻 <strong>ASP.NET</strong></td>
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="50"/> 📘 <strong>TypeScript</strong></td>
     <td><img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" width="50"/> 🚀 <strong>Next.js</strong></td>
-    <td></td>
   </tr>
 </table>
 
